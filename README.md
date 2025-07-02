@@ -109,4 +109,17 @@ Banckmark automatically save the models for each fold. Such models can be easly 
 ## Statistics
 The script `statistic.py` returns the statistics in terms of images dimension for a given subset provided with the groundtruth.
 
+## Cite
+If you use this repository or find it helpful in your research, please consider citing the following paper:
+
+@inproceedings{cacace2023hmpd,
+  title={Hmpd: A novel dataset for microplastics classification with digital holography},
+  author={Cacace, Teresa and Del-Coco, Marco and Carcagn{\`\i}, Pierluigi and Cocca, Mariacristina and Paturzo, Melania and Distante, Cosimo},
+  booktitle={International Conference on Image Analysis and Processing},
+  pages={123--133},
+  year={2023},
+  organization={Springer}
+}
+
+
 
