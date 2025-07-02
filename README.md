@@ -111,7 +111,7 @@ The script `statistic.py` returns the statistics in terms of images dimension fo
 
 ## Cite
 If you use this repository or find it helpful in your research, please consider citing the following paper:
-
+```
 @inproceedings{cacace2023hmpd,
   title={Hmpd: A novel dataset for microplastics classification with digital holography},
   author={Cacace, Teresa and Del-Coco, Marco and Carcagn{\`\i}, Pierluigi and Cocca, Mariacristina and Paturzo, Melania and Distante, Cosimo},
@@ -120,6 +120,6 @@ If you use this repository or find it helpful in your research, please consider 
   year={2023},
   organization={Springer}
 }
-
+```
 
 
